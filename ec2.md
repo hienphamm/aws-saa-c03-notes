@@ -76,3 +76,23 @@
 ### Storage Optimized EC2 instances
 
 - Great for workloads requiring high, sequential read/write access to large data sets on local storage.
+
+# EC2 - Elastic Compute Cloud (Infrastructure as a Service)
+
+EC2 primarily provides the ability to:
+
+- Rent virtual machines (EC2)
+- Store data on virtual drives (EBS)
+- Distribute load across machines (ELB)
+- Scale the services using an auto-scaling group (ASG)
+
+## EC2 User Data
+
+EC2 User data scripts allow for bootstrapping of our instances. Bootstrapping refers to the execution of commands when a machine starts. This script is only run once at the instance's first start. EC2 user data is used to automate boot tasks such as:
+
+- Installing updates
+- Installing software
+- Downloading common files from the internet
+- Any other task you can think of
+
+The EC2 User Data script runs with the root user.
