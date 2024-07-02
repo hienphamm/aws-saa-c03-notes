@@ -27,3 +27,5 @@
 - The goal of HA is to survive a data center loss.
 - High availability can be passive (for RDS multi AZ for example)
 - High availability can be active (for horizontal scaling)
+
+![Scalability & High Availability](../resources/images/scalability-high-availability.png)
