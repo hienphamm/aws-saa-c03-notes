@@ -5,7 +5,7 @@ Forward TCP & UDP traffic to your instances.
 Handle millions of request per seconds
 Less latency ~100 ms(vs 400 ms for ALB)
 
-- NLB has one static IP per AZ, and supports assigning Elastic IP (h elpful for whitelisting specific IP).
+- NLB has one static IP per AZ, and supports assigning Elastic IP (helpful for whitelisting specific IP).
 NLB are used for extreme performance, TCP or UDP traffic.
 Not included in AWS free tier
 
