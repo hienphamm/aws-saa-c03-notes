@@ -22,4 +22,4 @@ When a user enters a domain name into their browser, the DNS system is responsib
 
 DNS plays a pivotal role in how users interact with the internet, making it possible to access websites and services through easy-to-remember domain names.
 
-![DNS Overview](../resources/images/dns-overview.png)
+![DNS Overview](../resources/images/route53/dns-overview.png)

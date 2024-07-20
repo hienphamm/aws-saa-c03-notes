@@ -16,4 +16,4 @@ Amazon FSx offers different deployment options tailored to specific storage need
 - **Rapid File Replacement**: Can replace failed files within minutes, minimizing downtime.
 - **Usage**: Suitable for long-term processing and storage of sensitive data that requires high availability and durability.
 
-![FSx File System Deployment Options](../resources/images/fsx-deployment-options.png)
+![FSx File System Deployment Options](../resources/images/storage-extras/fsx-deployment-options.png)

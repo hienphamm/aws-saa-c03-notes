@@ -36,4 +36,4 @@ To implement a user session store using ElastiCache, follow these steps:
 - **Performance**: Reduces database load by caching session data in memory for fast retrieval.
 - **Statelessness**: Enables your application instances to be stateless, simplifying scaling and deployment.
 
-![ElastiCache](../resources/images/elasticache-session-store.png)
+![ElastiCache](../resources/images/elasticache/elasticache-session-store.png)

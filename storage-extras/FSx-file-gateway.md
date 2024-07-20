@@ -14,4 +14,4 @@ Amazon FSx File Gateway offers native access to Amazon FSx for Windows File Serv
 
 By leveraging FSx File Gateway, organizations can extend their on-premises file storage to the cloud, benefiting from the scalability, reliability, and security of AWS, while maintaining a familiar Windows file system environment.
 
-![FSx File Gateway](../resources/images/fsx-file-gateway.png)
+![FSx File Gateway](../resources/images/storage-extras/fsx-file-gateway.png)

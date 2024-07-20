@@ -12,4 +12,4 @@
 - **Up to 16 Read Replicas** per secondary region, aiding in decreasing latency.
 - Promoting another region for disaster recovery has a Recovery Time Objective (RTO) of less than 1 minute.
 
-![Aurora Global Database](../resources/images/aurora-global-database.png)
+![Aurora Global Database](../resources/images/rds/aurora-global-database.png)

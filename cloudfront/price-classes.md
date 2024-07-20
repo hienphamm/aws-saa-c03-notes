@@ -20,4 +20,4 @@ Amazon CloudFront offers different price classes to help control costs by limiti
 - **Performance**: Basic performance, limited to the most cost-effective regions.
 - **Use Case**: Best for content delivery where cost savings are prioritized over global reach and performance.
 
-![CloudFront Price Classes](../resources/images/cloudfront-price-classes.png)
+![CloudFront Price Classes](../resources/images/cloudfront/cloudfront-price-classes.png)

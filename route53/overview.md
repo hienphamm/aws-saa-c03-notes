@@ -13,4 +13,4 @@ Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS
 
 The name "Route 53" is a nod to TCP or UDP port 53, where DNS server requests are addressed. This reflects the service's foundational role in managing DNS, which is essential for the internet's operation.
 
-![Route53](../resources/images/route53.png)
+![Route53](../resources/images/route53/route53.png)

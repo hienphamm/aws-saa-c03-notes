@@ -11,4 +11,4 @@
 
 Except for Alias records, TTL is mandatory for each DNS record.
 
-![TTL](../resources/images/route53-ttl.png)
+![TTL](../resources/images/route53/route53-ttl.png)

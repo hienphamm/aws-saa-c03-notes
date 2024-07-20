@@ -17,4 +17,4 @@
     - **Purpose**: Supports the deployment and management of application versions in a scalable and managed AWS infrastructure.
 - **Multiple Environments**: Enables the creation of separate environments for development, testing, production, etc., facilitating a structured deployment pipeline.
 
-![Beanstalk tiers](../resources/images/beanstalk-tiers.png)
+![Beanstalk tiers](../resources/images/beanstalk/beanstalk-tiers.png)

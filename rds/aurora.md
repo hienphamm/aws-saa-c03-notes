@@ -28,4 +28,4 @@
 
 - **Automated Patching with Zero Downtime**: Aurora applies patches within the maintenance window you define, ensuring your databases are up-to-date with the latest patches.
 
-![Aurora](../resources/images/aurora.png)
+![Aurora](../resources/images/rds/aurora.png)

@@ -31,4 +31,4 @@
     - We can create scale-out policies (increase the number of instances).
     - We can create scale-in policies (decrease the number of instances).
 
-![ASG Scaling](../resources/images/asg.png)
+![ASG Scaling](../resources/images/asg/asg.png)

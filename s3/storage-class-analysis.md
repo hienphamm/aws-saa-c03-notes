@@ -28,4 +28,4 @@ Amazon S3's Storage Class Analysis is a tool designed to help you understand you
 
 By following these recommendations and utilizing Storage Class Analysis, you can optimize your storage costs and efficiency by ensuring that objects are stored in the most appropriate class based on how frequently they are accessed.
 
-![Storage Class Analysis](../resources/images/s3-storage-class-analysis.png)
+![Storage Class Analysis](../resources/images/s3/s3-storage-class-analysis.png)

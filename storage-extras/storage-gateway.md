@@ -22,5 +22,5 @@ Amazon Storage Gateway is a hybrid cloud storage service that gives you on-premi
 
 By utilizing Amazon Storage Gateway, businesses can bridge their on-premises storage systems with the cloud, enabling more flexible and cost-effective storage solutions.
 
-![Storage Gateway](../resources/images/storage-gateway.png)
+![Storage Gateway](../resources/images/storage-extras/storage-gateway.png)
 

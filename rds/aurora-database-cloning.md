@@ -13,4 +13,4 @@ Aurora Database Cloning allows for the creation of a new Aurora DB Cluster from 
 - **Cost-Effectiveness**: It is cost-effective because additional storage is only used when changes are made, and it leverages the existing data without needing to duplicate it upfront.
 - **Use Cases**: Particularly useful for creating a staging database from a production database without impacting the performance or integrity of the production environment.
 
-![Aurora Database Cloning](../resources/images/aurora-db-cloning.png)
+![Aurora Database Cloning](../resources/images/rds/aurora-db-cloning.png)

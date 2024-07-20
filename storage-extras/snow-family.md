@@ -25,4 +25,4 @@ The Snow Family offers several devices tailored for different scales of data mig
 - **Offline Data Migrations**: The Snow Family is particularly beneficial for offline data migrations, providing a robust solution when transferring data over the network is impractical due to size, speed, or connectivity limitations.
   - **Large-Scale Migrations**: If it takes more than a week to transfer data over the network, Snowball devices offer an efficient and cost-effective alternative.
 
-![AWS Snow Family](../resources/images/snow-devices.png)
+![AWS Snow Family](../resources/images/storage-extras/snow-devices.png)

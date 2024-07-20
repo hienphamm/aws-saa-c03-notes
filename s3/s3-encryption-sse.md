@@ -21,4 +21,4 @@ x-amz-server-side-encryption: AES256
 Content-Length: [length]
 Content-Type: text/plain
 ```
-![Server-Side Encryption with S3-Managed Keys](../resources/images/s3-encryption-sse.png)
+![Server-Side Encryption with S3-Managed Keys](../resources/images/s3/s3-encryption-sse.png)

@@ -14,4 +14,4 @@ Pre-signed URLs in Amazon S3 provide a way to grant temporary access to your S3 
 2. **Dynamic Access**: Generate URLs dynamically for an ever-changing list of users. This is useful for applications where user access needs to be frequently updated without changing IAM policies.
 3. **Temporary Upload Access**: Allow users to temporarily upload a file to a precise location in your S3 bucket. This is particularly useful for scenarios where users need to submit files or documents through a web application.
 
-![S3 Pre-signed URLs](../resources/images/s3-pre-signed.png)
+![S3 Pre-signed URLs](../resources/images/s3/s3-pre-signed.png)

@@ -14,5 +14,5 @@ Amazon Volume Gateway provides cloud-backed storage solutions, offering seamless
 
 By employing Volume Gateway, businesses can achieve a hybrid storage environment that combines the flexibility of cloud storage with the performance and familiarity of on-premises systems.
 
-![Volume Gateway](../resources/images/volume-gateway.png)
+![Volume Gateway](../resources/images/storage-extras/volume-gateway.png)
 

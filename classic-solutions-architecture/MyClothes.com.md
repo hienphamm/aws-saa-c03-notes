@@ -12,5 +12,5 @@
   - Multi AZ for disaster recovery
 - Tight Security with security groups referencing each other
 
-![3-tier architecture](../resources/images/MyClothes.com.png)
+![3-tier architecture](../resources/images/classic-solutions-architecture/MyClothes.com.png)
 

@@ -17,4 +17,4 @@ Health checks in AWS Route 53 are designed to monitor the health of your resourc
 
 Health checks are integrated with CloudWatch metrics, allowing for detailed monitoring and alerting based on the health of your resources.
 
-![Route 53 Health Checks](../resources/images/health-checks.png)
+![Route 53 Health Checks](../resources/images/route53/health-checks.png)

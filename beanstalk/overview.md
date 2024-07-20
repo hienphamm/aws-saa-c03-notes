@@ -24,4 +24,4 @@ Elastic Beanstalk provides a developer-centric approach to deploying application
 
 Elastic Beanstalk is ideal for developers seeking an efficient and scalable way to deploy applications on AWS without the overhead of managing the infrastructure.
 
-![Elastic Beanstalk Overview](../resources/images/beanstalk-overview.png)
+![Elastic Beanstalk Overview](../resources/images/beanstalk/beanstalk-overview.png)

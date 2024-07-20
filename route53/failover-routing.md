@@ -38,4 +38,4 @@ This setup is typically used in an active-passive failover configuration, where 
 
 By following these guidelines, you can effectively implement a failover routing policy in AWS Route 53, ensuring your applications remain available even in the face of resource failures.
 
-![Route 53 Failover Routing](../resources/images/failover-routing.png)
+![Route 53 Failover Routing](../resources/images/route53/failover-routing.png)

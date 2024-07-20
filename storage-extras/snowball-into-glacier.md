@@ -20,4 +20,4 @@ Transferring data from AWS Snowball to Amazon Glacier requires an intermediary s
 
 By following this architecture, organizations can efficiently leverage Snowball for large-scale data transfers and Glacier for secure, long-term storage, optimizing costs and ensuring data durability.
 
-![Snowball into Glacier](../resources/images/snowball-into-glacier.png) 
+![Snowball into Glacier](../resources/images/storage-extras/snowball-into-glacier.png) 

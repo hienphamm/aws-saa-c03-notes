@@ -13,4 +13,4 @@ ElastiCache is AWS's managed caching service, similar to how RDS provides manage
 
 ElastiCache is an effective solution for applications that require fast data retrieval and aim to minimize database load, thereby enhancing overall application performance.
 
-![ElastiCache](../resources/images/elasticache.png)
+![ElastiCache](../resources/images/elasticache/elasticache.png)

@@ -14,4 +14,4 @@ CloudFront distributions can fetch content from various types of origins, includ
 - **EC2 Instance**: Directly use an EC2 instance as an origin for dynamic content that requires computation or database access.
 - **S3 Website**: For static websites hosted on S3, enable the bucket for static website hosting to use it as a custom origin. This allows CloudFront to cache and distribute static web content efficiently.
 
-![CloudFront Origins](../resources/images/cloudfront-origins.png)
+![CloudFront Origins](../resources/images/cloudfront/cloudfront-origins.png)

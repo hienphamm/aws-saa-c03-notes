@@ -2,4 +2,4 @@
 - Storing data in EBS (single instance application)
 - Storing data in EFS (distributed application)
 
-![MyWordPress.com](../resources/images/MyWordPress.com.png)
+![MyWordPress.com](../resources/images/classic-solutions-architecture/MyWordPress.com.png)

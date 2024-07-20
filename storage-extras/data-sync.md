@@ -21,5 +21,5 @@ Amazon DataSync is a data transfer service designed to simplify and accelerate m
 
 By leveraging Amazon DataSync, organizations can efficiently manage data migration and synchronization tasks, ensuring data is where it needs to be, when it's needed, while maintaining data integrity and optimizing network usage.
 
-![DataSync](../resources/images/data-sync-01.png)
-![DataSync](../resources/images/data-sync-02.png)
+![DataSync](../resources/images/storage-extras/data-sync-01.png)
+![DataSync](../resources/images/storage-extras/data-sync-02.png)

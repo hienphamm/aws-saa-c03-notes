@@ -18,4 +18,4 @@ Cache invalidation is a process that forces CloudFront to refresh its cached con
 
 By strategically using cache invalidations, you can manage how and when CloudFront updates its cached content, providing a balance between performance and content freshness.
 
-![Cache Invalidation](../resources/images/cloudfront-cache-invalidations.png)
+![Cache Invalidation](../resources/images/cloudfront/cloudfront-cache-invalidations.png)
