@@ -21,3 +21,5 @@ Integrating Amazon SQS (Simple Queue Service) with Auto Scaling Groups (ASGs) al
 - **Cost Management**: Monitor your costs closely, as dynamically adding instances can increase your AWS bill.
 
 ![Integrating SQS with Auto Scaling Groups](../../resources/images/sqs/sqs-asg.png)
+![Integrating SQS with Auto Scaling Groups](../../resources/images/sqs/sqs-asg-2.png)
+![Integrating SQS with Auto Scaling Groups](../../resources/images/sqs/sqs-asg-3.png)
