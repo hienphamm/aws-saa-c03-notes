@@ -7,5 +7,8 @@ Section 17: Decoupling applications: SQS, SNS, Kinesis and Active MQ
  - End: 20-07-2024
 Section 18: Container on AWS: ECS, ECR, Fargate, and EKS
  - Start: 21-07-2024
- - End: ??-??-2024
+ - End: 21-07-2024
+Section 19: Serverless overview from a Solutions Architect perspective
+ - Start: 22-07-2024
+ - End: ??-07-2024
 ```
