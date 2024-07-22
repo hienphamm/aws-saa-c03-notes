@@ -16,4 +16,4 @@ Amazon FSx for NetApp ONTAP offers a fully managed NetApp ONTAP file system on A
 
 By utilizing FSx for NetApp ONTAP, businesses can achieve high performance and reliability for their critical applications, while benefiting from the operational simplicity and cost-effectiveness of AWS.
 
-![FSx for NetApp ONTAP](../resources/images/fsx-netapp-ontap.png)
+![FSx for NetApp ONTAP](../resources/images/fsx-NetApp-ONTAP.png)

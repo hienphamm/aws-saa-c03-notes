@@ -16,4 +16,4 @@ Amazon FSx for OpenZFS offers a fully managed OpenZFS file system on AWS, provid
 
 Leveraging FSx for OpenZFS on AWS allows businesses to combine the benefits of OpenZFS with the scalability, reliability, and security of AWS.
 
-![FSx for OpenZFS](../resources/images/fsx-openzfs.png)
+![FSx for OpenZFS](../resources/images/fsx-OpenZFS.png)
