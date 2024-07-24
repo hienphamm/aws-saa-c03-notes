@@ -10,5 +10,8 @@ Section 18: Container on AWS: ECS, ECR, Fargate, and EKS
  - End: 21-07-2024
 Section 19: Serverless overview from a Solutions Architect perspective
  - Start: 22-07-2024
- - End: ??-07-2024
+ - End: 24-07-2024
+Section 20: Serverless Solution Architecture Discussion
+ - Start: 24-07-2024
+ - End: 24-07-2024
 ```
