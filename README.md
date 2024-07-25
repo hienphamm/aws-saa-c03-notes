@@ -14,4 +14,7 @@ Section 19: Serverless overview from a Solutions Architect perspective
 Section 20: Serverless Solution Architecture Discussion
  - Start: 24-07-2024
  - End: 24-07-2024
+Section 21: Databases in AWS
+ - Start: 25-07-2024
+ - End: 25-07-2024
 ```
