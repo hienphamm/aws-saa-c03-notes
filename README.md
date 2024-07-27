@@ -17,4 +17,7 @@ Section 20: Serverless Solution Architecture Discussion
 Section 21: Databases in AWS
  - Start: 25-07-2024
  - End: 25-07-2024
+Section 22: Data & Analytics
+ - Start: 26-07-2024
+ - End: 27-07-2024
 ```
