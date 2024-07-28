@@ -20,4 +20,10 @@ Section 21: Databases in AWS
 Section 22: Data & Analytics
  - Start: 26-07-2024
  - End: 27-07-2024
+Section 23: Machine Learning
+ - Start: 28-07-2024
+ - End: 28-07-2024
+Section 24: AWS Monitoring & Audit: CloudWatch, CloudTrail & Config  
+ - Start: 28-07-2024
+ - End: 29-07-2024
 ```
