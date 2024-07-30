@@ -10,4 +10,4 @@
 
 - Gateway Load Balancer uses the GENEVE protocol on port 6081.
 
-![img.png](../resources/images/elb/glb.png)
+![img.png](../z_resources/images/elb/glb.png)

@@ -17,4 +17,4 @@ Amazon Elastic File System (EFS) provides a simple, scalable, elastic file stora
 
 - Unlike Amazon S3, which is an object storage service, EFS is designed to be mounted as a file system and cannot be directly mounted onto ECS tasks. Amazon S3 is great for storing and retrieving large amounts of data but does not function as a file system that ECS tasks can directly interact with.
 
-![EFS on ECS](../resources/images/ecs/data-volumes.png)
+![EFS on ECS](../z_resources/images/ecs/data-volumes.png)

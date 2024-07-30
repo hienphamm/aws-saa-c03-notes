@@ -29,4 +29,4 @@ Amazon RDS provides event notifications that inform you about changes to your DB
 
 By configuring RDS event notifications, you can stay informed about the operational status and changes to your RDS resources, enabling proactive management and response to events.
 
-![RDS Event Notifications](../resources/images/lambda/rds-event-notifications.png) 
+![RDS Event Notifications](../z_resources/images/lambda/rds-event-notifications.png) 

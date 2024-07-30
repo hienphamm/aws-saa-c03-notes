@@ -28,4 +28,4 @@
 - High availability can be passive (for RDS multi AZ for example)
 - High availability can be active (for horizontal scaling)
 
-![Scalability & High Availability](../resources/images/asg/scalability-high-availability.png)
+![Scalability & High Availability](../z_resources/images/asg/scalability-high-availability.png)

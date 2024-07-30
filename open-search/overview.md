@@ -33,4 +33,4 @@ Amazon OpenSearch Service is the successor to Elasticsearch, providing powerful 
 
 By leveraging these features, Amazon OpenSearch Service can significantly enhance the search and analytics capabilities of your applications.
 
-![OpenSearch Service](../resources/images/open-search/open-search-service.png)
+![OpenSearch Service](../z_resources/images/open-search/open-search-service.png)

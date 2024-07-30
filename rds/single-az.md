@@ -16,4 +16,4 @@
     - A new database is restored from the snapshot in a new Availability Zone (AZ).
     - Synchronization is established between the two databases, ensuring that any changes made to the primary database are automatically replicated to the new database in the other AZ.
 
-![RDS Single-AZ](../resources/images/rds/rds-single-az.png)
+![RDS Single-AZ](../z_resources/images/rds/rds-single-az.png)

@@ -18,4 +18,4 @@ Athena Federated Query allows you to run SQL queries across data stored in relat
 - **Data Integration**: Integrate data from various sources for comprehensive analysis.
 - **Log Analysis**: Query and analyze logs from CloudWatch Logs, DynamoDB, etc.
 
-![Athena - Federated Query](../resources/images/athena/federated-query.png)
+![Athena - Federated Query](../z_resources/images/athena/federated-query.png)

@@ -22,4 +22,4 @@ The ECS Cluster Capacity Provider automates the provisioning and scaling of the 
 
 By leveraging both ASG scaling and ECS Cluster Capacity Providers, you can ensure that your ECS services running on EC2 instances are always backed by the necessary infrastructure, allowing for efficient scaling and management of your containerized applications.
 
-![ECS EC2 Auto Scaling](../resources/images/ecs/ecs-auto-scaling.png)
+![ECS EC2 Auto Scaling](../z_resources/images/ecs/ecs-auto-scaling.png)

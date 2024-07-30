@@ -19,4 +19,4 @@ CloudFront Functions offer a lightweight solution for writing JavaScript functio
 
 CloudFront Functions are a native feature of Amazon CloudFront, allowing developers to manage code entirely within the CloudFront environment for seamless integration and deployment.
 
-![CloudFront Functions](../resources/images/lambda/cloudfront-functions.png)
+![CloudFront Functions](../z_resources/images/lambda/cloudfront-functions.png)

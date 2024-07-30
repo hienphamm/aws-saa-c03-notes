@@ -18,4 +18,4 @@
 - Redis sorted sets guarantee both uniqueness and element ordering.
 - Each time a new element is added, it's ranked in real time, then added in the correct order.
 
-![Use Case](../resources/images/elasticache/redis-use-cases.png)
+![Use Case](../z_resources/images/elasticache/redis-use-cases.png)

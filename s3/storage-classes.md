@@ -45,4 +45,4 @@ Amazon S3 offers a range of storage classes designed for different use cases ran
 
 Objects can be moved between these classes manually or using S3 lifecycle configurations to optimize costs and access times based on your specific needs.
 
-![S3 Storage Classes](../resources/images/s3/s3-storage-classes.png)
+![S3 Storage Classes](../z_resources/images/s3/s3-storage-classes.png)

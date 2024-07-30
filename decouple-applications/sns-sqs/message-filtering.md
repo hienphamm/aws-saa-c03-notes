@@ -21,4 +21,4 @@ Consider a scenario where an SNS topic is used to publish notifications about di
 }
 ```
 
-![Message Filtering in SNS](../../resources/images/sns-sqs/message-filtering.png)
+![Message Filtering in SNS](../../z_resources/images/sns-sqs/message-filtering.png)

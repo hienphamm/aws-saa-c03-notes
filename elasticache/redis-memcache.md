@@ -15,4 +15,4 @@
 - **Backup and Restore**: Does not support native backup and restore functionalities.
 - **Performance**: Benefits from a multi-threaded architecture, which can handle high levels of concurrency.
 
-![Redis vs Memcached](../resources/images/elasticache/redis-vs-memcached.png)
+![Redis vs Memcached](../z_resources/images/elasticache/redis-vs-memcached.png)

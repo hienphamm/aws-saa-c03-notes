@@ -37,5 +37,5 @@ Kinesis Data Firehose supports loading data into various AWS services and third-
 
 By leveraging these features, Kinesis Data Firehose provides a robust and flexible solution for streaming data ingestion and processing, making it easier for businesses to analyze their data in near real-time.
 
-![Kinesis Data Firehose Overview](../resources/images/kinesis/data-firehose.png)
+![Kinesis Data Firehose Overview](../z_resources/images/kinesis/data-firehose.png)
 

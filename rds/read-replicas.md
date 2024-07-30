@@ -8,4 +8,4 @@
 
 - To leverage read replicas, applications must update their connection strings accordingly.
 
-![RDS Read Replicas](../resources/images/rds/rds-read-replicas.png)
+![RDS Read Replicas](../z_resources/images/rds/rds-read-replicas.png)

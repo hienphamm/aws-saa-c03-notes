@@ -17,4 +17,4 @@ Amazon Lake Formation is a fully managed service that makes it easy to set up a 
 
 By leveraging these features, Amazon Lake Formation simplifies the process of setting up and managing a data lake, enabling efficient and scalable data workflows.
 
-![Lake Formation](../resources/images/lake-formation/lake-formation.png)
+![Lake Formation](../z_resources/images/lake-formation/lake-formation.png)

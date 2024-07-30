@@ -25,4 +25,4 @@ S3 Batch Operations is a powerful feature that allows you to perform large-scale
 
 By leveraging S3 Batch Operations, you can automate and streamline the management of your S3 objects, making it easier to handle large-scale data with efficiency and precision.
 
-![S3 Batch Operations](../resources/images/s3/s3-batch-operations.png) 
+![S3 Batch Operations](../z_resources/images/s3/s3-batch-operations.png) 

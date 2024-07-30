@@ -20,4 +20,4 @@ Amazon S3 Select and Glacier Select are powerful features that allow you to retr
 
 By leveraging S3 Select and Glacier Select, you can significantly optimize the way you interact with data stored in Amazon S3 and Glacier, making your applications more efficient and cost-effective.
 
-![S3 Select and Glacier Select](../resources/images/s3/s3-select-glacier-select.png) 
+![S3 Select and Glacier Select](../z_resources/images/s3/s3-select-glacier-select.png) 

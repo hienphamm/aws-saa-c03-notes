@@ -28,5 +28,5 @@ SQS FIFO queues provide a different approach, focusing on message ordering and d
 
 Choosing between Kinesis Data Streams and SQS FIFO depends on the specific requirements for data ordering, throughput, and the level of parallel processing needed.
 
-![Kinesis vs SQS FIFO](../resources/images/kinesis/data-ordering.png)
-![Kinesis vs SQS FIFO](../resources/images/kinesis/sqs-fifo.png)
+![Kinesis vs SQS FIFO](../z_resources/images/kinesis/data-ordering.png)
+![Kinesis vs SQS FIFO](../z_resources/images/kinesis/sqs-fifo.png)

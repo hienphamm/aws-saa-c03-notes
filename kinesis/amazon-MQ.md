@@ -26,4 +26,4 @@ Amazon MQ is a managed message broker service that facilitates the migration of 
 
 By leveraging Amazon MQ, businesses can migrate their traditional applications to the cloud more seamlessly, without the need to significantly alter their existing messaging infrastructure.
 
-![Amazon MQ Overview](../resources/images/kinesis/amazon-MQ.png)
+![Amazon MQ Overview](../z_resources/images/kinesis/amazon-MQ.png)

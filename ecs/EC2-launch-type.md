@@ -22,4 +22,4 @@ The EC2 Launch Type enables you to launch ECS tasks on Amazon EC2 instances. Thi
 - **Maintenance**: Requires ongoing maintenance and management of the EC2 instances, including patching and scaling.
 - **Cost**: Users pay for the EC2 instances, so it's important to monitor and optimize resource utilization to manage costs effectively.
 
-![ECS EC2 Launch Type](../resources/images/ecs/EC2-launch-type.png)
+![ECS EC2 Launch Type](../z_resources/images/ecs/EC2-launch-type.png)

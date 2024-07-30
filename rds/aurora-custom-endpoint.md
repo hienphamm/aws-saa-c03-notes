@@ -4,4 +4,4 @@
 - Example: Run analytical queries on specific replicas
 - The Reader Endpoint is generally not used after defining Custom Endpoints
 
-![Aurora Custom Endpoint](../resources/images/rds/aurora-custom-endpoint.png)
+![Aurora Custom Endpoint](../z_resources/images/rds/aurora-custom-endpoint.png)

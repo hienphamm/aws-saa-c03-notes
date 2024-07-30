@@ -37,4 +37,4 @@ QuickSight integrates with various AWS data sources, including:
 
 By leveraging these features, Amazon QuickSight enables organizations to gain valuable insights from their data, supporting better decision-making and business outcomes.
 
-![QuickSight](../resources/images/quick-sight/quick-sight-integrations.png)
+![QuickSight](../z_resources/images/quick-sight/quick-sight-integrations.png)

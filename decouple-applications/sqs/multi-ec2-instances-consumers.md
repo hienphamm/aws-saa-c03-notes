@@ -15,4 +15,4 @@ To efficiently process messages from an Amazon SQS queue, deploying multiple EC2
 - **Load Balancing**: Although SQS itself acts as a load balancer by distributing messages among consumers, ensure your application logic on EC2 instances can handle varying loads.
 - **Monitoring and Alarms**: Implement CloudWatch metrics and alarms to monitor the queue depth, message processing times, and other relevant metrics. This allows you to scale proactively based on real-time data.
 
-![Scaling SQS Message Consumption with Multiple EC2 Instances](../../resources/images/sqs/multi-ec2-instances-consumers.png)
+![Scaling SQS Message Consumption with Multiple EC2 Instances](../../z_resources/images/sqs/multi-ec2-instances-consumers.png)

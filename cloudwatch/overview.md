@@ -20,4 +20,4 @@ Amazon CloudWatch Logs enables you to monitor, store, and access log files from 
     - Logs are encrypted by default.
     - Can set up KMS-based encryption with your own keys.
 
-![CloudWatch Logs](../resources/images/cloudwatch/cloudwatch-logs.png)
+![CloudWatch Logs](../z_resources/images/cloudwatch/cloudwatch-logs.png)

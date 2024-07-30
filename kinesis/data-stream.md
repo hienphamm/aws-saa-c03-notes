@@ -38,4 +38,4 @@ Amazon Kinesis Data Streams is a scalable and durable real-time data streaming s
 - **Kinesis Data Firehose**: Load streaming data into AWS data stores like Amazon S3, Amazon Redshift, or Amazon Elasticsearch Service.
 - **Kinesis Data Analytics**: Analyze streaming data with SQL or Apache Flink without having to manage any infrastructure.
 
-![Kinesis Data Streams](../resources/images/kinesis/data-stream.png)
+![Kinesis Data Streams](../z_resources/images/kinesis/data-stream.png)

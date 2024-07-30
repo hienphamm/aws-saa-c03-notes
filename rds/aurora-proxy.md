@@ -15,4 +15,4 @@ RDS Proxy is a fully managed database proxy service designed for Amazon RDS and 
 
 RDS Proxy is an ideal solution for applications requiring high database performance and efficiency, without compromising on security and scalability.
 
-![RDS Proxy](../resources/images/rds/rds-proxy.png)
+![RDS Proxy](../z_resources/images/rds/rds-proxy.png)

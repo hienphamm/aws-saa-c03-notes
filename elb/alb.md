@@ -23,4 +23,4 @@ ALB routes requests to one or more registered targets, such as EC2 instances, wi
 - **Fixed Hostname**: ALB provides a fixed hostname (XXX.region.elb.amazonaws.com).
 - **Client IP Address Preservation**: The application servers don't see the IP of the client directly. The true IP of the client is inserted in the header X-Forwarded-For. We can also get the Port (X-Forwarded-Port) and the protocol (X-Forwarded-Proto).
 
-![img.png](../resources/images/elb/alb.png)
+![img.png](../z_resources/images/elb/alb.png)

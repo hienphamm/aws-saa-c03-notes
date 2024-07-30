@@ -21,4 +21,4 @@ Versioning in Amazon S3 is a powerful feature that allows you to keep multiple v
 
 Enabling versioning on your S3 buckets is considered a best practice for data management, providing a robust mechanism for data recovery and protection.
 
-![S3 versioning](../resources/images/s3/s3-versioning.png)
+![S3 versioning](../z_resources/images/s3/s3-versioning.png)

@@ -41,4 +41,4 @@ Kinesis Data Streams is a scalable and durable real-time data streaming service 
 
 While DynamoDB Streams is specifically tailored for reacting to changes in DynamoDB tables, Kinesis Data Streams provides a more general-purpose solution for processing large-scale streaming data. The choice between the two should be based on the specific requirements of your application, such as the need for item-level tracking, data retention period, and the scale of data consumption.
 
-![DynamoDB - Streams](../resources/images/dynamodb/streams.png)
+![DynamoDB - Streams](../z_resources/images/dynamodb/streams.png)

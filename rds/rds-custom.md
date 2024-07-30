@@ -16,4 +16,4 @@
 
 - RDS Custom: Provides full admin access to the underlying OS and the database. This is suitable for users who need more control over their database and OS configurations.
 
-![RDS Custom](../resources/images/rds/rds-custom.png)
+![RDS Custom](../z_resources/images/rds/rds-custom.png)

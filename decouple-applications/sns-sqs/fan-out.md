@@ -22,4 +22,4 @@ The fan-out pattern with Amazon Simple Notification Service (SNS) and Amazon Sim
 
 This architecture allows for robust, scalable, and decoupled applications that can handle high volumes of messages efficiently.
 
-![SNS + SQS Fan-Out Pattern](../../resources/images/sns-sqs/fan-out.png)
+![SNS + SQS Fan-Out Pattern](../../z_resources/images/sns-sqs/fan-out.png)

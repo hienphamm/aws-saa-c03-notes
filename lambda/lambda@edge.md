@@ -23,5 +23,5 @@ Lambda@Edge allows you to run Lambda functions to customize the content that Ama
 
 Lambda@Edge integrates seamlessly with AWS CloudFront, enhancing your ability to deliver customized, scalable, and secure web content.
 
-![Lambda@Edge](../resources/images/lambda/lambda@edge.png)
+![Lambda@Edge](../z_resources/images/lambda/lambda@edge.png)
 

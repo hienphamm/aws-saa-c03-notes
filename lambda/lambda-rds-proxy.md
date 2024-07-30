@@ -21,4 +21,4 @@ To leverage RDS Proxy, your Lambda function must be deployed within your AWS Vir
 
 By following these steps, you can enhance the scalability, availability, and security of your Lambda functions when accessing databases, making your applications more resilient and efficient.
 
-![Lambda with RDS Proxy](../resources/images/lambda/lambda-rds-proxy.png)
+![Lambda with RDS Proxy](../z_resources/images/lambda/lambda-rds-proxy.png)

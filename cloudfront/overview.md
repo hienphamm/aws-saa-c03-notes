@@ -22,4 +22,4 @@ Amazon CloudFront is a fast content delivery network (CDN) service that securely
 
 By leveraging Amazon CloudFront, businesses can ensure their content is delivered quickly and securely to users around the world, enhancing the overall user experience and protecting against web threats.
 
-![Amazon CloudFront](../resources/images/cloudfront/cloudfront-overview.png)
+![Amazon CloudFront](../z_resources/images/cloudfront/cloudfront-overview.png)

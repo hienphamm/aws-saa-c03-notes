@@ -23,4 +23,4 @@ Lambda@Edge offers more computational power and flexibility than CloudFront Func
 - **Network Access**: Make calls to external services for additional processing or data retrieval, expanding the capabilities of your content delivery.
 - **File System Access or Access to the Body of HTTP Requests**: Manipulate files or the body of requests/responses for dynamic content generation or processing.
 
-![CloudFront Functions vs Lambda@Edge](../resources/images/lambda/cloudfront-functions-vs-lambda@edge.png)
+![CloudFront Functions vs Lambda@Edge](../z_resources/images/lambda/cloudfront-functions-vs-lambda@edge.png)

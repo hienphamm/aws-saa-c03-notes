@@ -26,4 +26,4 @@ Integrating load balancers with Amazon Elastic Container Service (ECS) enhances 
     - Lacks advanced routing and targeting features available in ALB and NLB.
     - Does not support Fargate or modern application architectures effectively.
 
-![ECS Load Balancer Integrations](../resources/images/ecs/load-balancer-integrations.png)
+![ECS Load Balancer Integrations](../z_resources/images/ecs/load-balancer-integrations.png)

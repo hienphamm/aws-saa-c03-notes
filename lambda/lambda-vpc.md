@@ -8,7 +8,7 @@ By default, when a Lambda function is created, it operates within an AWS-owned V
 
 - Resources within your own VPC, such as Amazon RDS instances, ElastiCache clusters, or internal Elastic Load Balancers (ELB).
 
-![Lambda Default Networking](../resources/images/lambda/lambda-default-networking.png)
+![Lambda Default Networking](../z_resources/images/lambda/lambda-default-networking.png)
 
 ## Lambda in VPC
 
@@ -18,7 +18,7 @@ To enable a Lambda function to access resources within your VPC, you must config
 - **Subnets**: One or more subnet IDs within your VPC where the Lambda function should operate. These subnets determine the IP range and availability zone(s) that the function can access.
 - **Security Groups**: One or more security group IDs that define the networking access rules for the Lambda function within your VPC.
 
-![Lambda VPC Networking](../resources/images/lambda/lambda-vpc-networking.png)
+![Lambda VPC Networking](../z_resources/images/lambda/lambda-vpc-networking.png)
 
 ### Elastic Network Interface (ENI)
 

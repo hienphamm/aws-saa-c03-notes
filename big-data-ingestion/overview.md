@@ -57,4 +57,4 @@ A fully serverless big data ingestion pipeline that collects data in real-time, 
 
 By leveraging these AWS services, you can build a fully serverless big data ingestion pipeline that meets all the specified requirements.
 
-![Big Data Ingestion Pipeline](../resources/images/big-data/big-data-ingestion-pipeline.png)
+![Big Data Ingestion Pipeline](../z_resources/images/big-data/big-data-ingestion-pipeline.png)

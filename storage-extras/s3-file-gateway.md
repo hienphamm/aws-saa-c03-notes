@@ -18,5 +18,5 @@ Amazon S3 File Gateway provides a seamless way to connect on-premises applicatio
 
 By leveraging S3 File Gateway, organizations can easily integrate cloud storage into their existing file-based applications and workflows, benefiting from the scalability, durability, and cost-efficiency of AWS S3.
 
-![S3 File Gateway](../resources/images/s3/s3-file-gateway.png)
+![S3 File Gateway](../z_resources/images/s3/s3-file-gateway.png)
 

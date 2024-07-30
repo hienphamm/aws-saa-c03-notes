@@ -32,4 +32,4 @@ To start using DAX with your DynamoDB tables, you need to:
 
 DAX seamlessly integrates with DynamoDB, providing a powerful caching mechanism that enhances the performance and scalability of applications without requiring complex changes to existing application logic.
 
-![DAX vs. ElastiCache](../resources/images/dynamodb/dax-vs-elastiCache.png)
+![DAX vs. ElastiCache](../z_resources/images/dynamodb/dax-vs-elastiCache.png)

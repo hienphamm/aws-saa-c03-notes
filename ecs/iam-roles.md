@@ -29,4 +29,4 @@ Unlike the EC2 Instance Profile, the ECS Task Role is assigned directly to the E
 
 By effectively utilizing IAM roles, you can enhance the security and efficiency of your ECS deployments, whether using EC2 Launch Type or Fargate.
 
-![IAM Roles for ECS](../resources/images/ecs/ecs-iam-roles.png)
+![IAM Roles for ECS](../z_resources/images/ecs/ecs-iam-roles.png)

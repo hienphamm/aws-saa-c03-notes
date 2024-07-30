@@ -17,4 +17,4 @@ Amazon Simple Notification Service (SNS) is a fully managed messaging service fo
 - **Flexibility**: With support for a wide variety of subscribers, SNS is flexible enough to meet the needs of almost any application architecture.
 - **Durability and Reliability**: SNS is designed for durability and high availability, ensuring that messages are delivered reliably to subscribers.
 
-![SNS Overview](../../resources/images/sns/sns-overview.png)
+![SNS Overview](../../z_resources/images/sns/sns-overview.png)

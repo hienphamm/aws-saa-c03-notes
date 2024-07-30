@@ -13,7 +13,7 @@ Cross-Zone Load Balancing allows each load balancer instance to distribute traff
 - If enabled, you will incur charges for inter-AZ data transfer.
 
 ### With Cross-Zone Load Balancing
-![img.png](../resources/images/elb/cross-zone.png)
+![img.png](../z_resources/images/elb/cross-zone.png)
 
 ### Without Cross-Zone Load Balancing
-![img.png](../resources/images/elb/no-cross-zone.png)
+![img.png](../z_resources/images/elb/no-cross-zone.png)

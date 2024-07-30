@@ -21,4 +21,4 @@ Amazon Athena is a serverless query service that allows you to analyze data stor
 ## Exam Tip
 - **Athena**: Analyze data in S3 using serverless SQL.
 
-![Amazon Athena](../resources/images/athena/athena.png)
+![Amazon Athena](../z_resources/images/athena/athena.png)

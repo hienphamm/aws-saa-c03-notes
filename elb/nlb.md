@@ -9,4 +9,4 @@ Less latency ~100 ms(vs 400 ms for ALB)
 NLB are used for extreme performance, TCP or UDP traffic.
 Not included in AWS free tier
 
-![img.png](../resources/images/elb/nlb.png)
+![img.png](../z_resources/images/elb/nlb.png)

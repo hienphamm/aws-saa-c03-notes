@@ -9,4 +9,4 @@ The Message Visibility Timeout in Amazon SQS is a crucial setting that controls 
 - **Visibility Timeout Expiry**: If the message is not processed within the visibility timeout, it becomes visible again in the queue, making it available for reprocessing by the same or different consumers.
 - **Duplicate Processing**: If a message is not processed within the visibility timeout, there's a risk of the message being processed more than once, leading to duplicates.
 
-![Message Visibility Timeout in SQS](../../resources/images/sqs/message-visibility-timeout.png)
+![Message Visibility Timeout in SQS](../../z_resources/images/sqs/message-visibility-timeout.png)

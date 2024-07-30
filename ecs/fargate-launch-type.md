@@ -26,4 +26,4 @@ Fargate simplifies running containers on AWS by managing the infrastructure for 
 
 By leveraging the Fargate launch type, you can focus more on developing your applications and less on managing the infrastructure.
 
-![ECS Fargate Launch Type](../resources/images/ecs/fargate-launch-type.png)
+![ECS Fargate Launch Type](../z_resources/images/ecs/fargate-launch-type.png)

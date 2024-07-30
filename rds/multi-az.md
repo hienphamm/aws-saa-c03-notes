@@ -12,4 +12,4 @@
 
 - Note: Multi-AZ deployments are not used for scaling. However, you can use Read Replicas, which can also be set up as Multi-AZ deployments, to offload your read traffic.
 
-![RDS Multi-AZ](../resources/images/rds/rds-multi-az.png)
+![RDS Multi-AZ](../z_resources/images/rds/rds-multi-az.png)

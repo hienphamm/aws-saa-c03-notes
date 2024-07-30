@@ -26,4 +26,4 @@ To facilitate the direct integration of Amazon Simple Notification Service (SNS)
 
 This solution architecture effectively bridges SNS with Amazon S3 through Kinesis Data Firehose, providing a scalable and flexible approach to data collection and storage.
 
-![SNS to Amazon S3 via Kinesis Data Firehose](../../resources/images/sns-sqs/sns-to-s3-via-knesis-data-firehose.png)
+![SNS to Amazon S3 via Kinesis Data Firehose](../../z_resources/images/sns-sqs/sns-to-s3-via-knesis-data-firehose.png)

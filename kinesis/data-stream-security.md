@@ -28,4 +28,4 @@ Amazon Kinesis Data Streams incorporates multiple layers of security to ensure t
 
 By leveraging these security features, you can ensure that your Kinesis Data Streams are secure and compliant with your organization's security policies.
 
-![Kinesis Data Streams Security](../resources/images/kinesis/data-stream-security.png)
+![Kinesis Data Streams Security](../z_resources/images/kinesis/data-stream-security.png)

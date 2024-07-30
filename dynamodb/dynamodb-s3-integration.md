@@ -35,4 +35,4 @@ Importing data into DynamoDB from S3 allows for flexibility in data migration an
 
 By integrating DynamoDB with S3, you can enhance your data management capabilities, enabling efficient data migration, analysis, and compliance with auditing requirements.
 
-![DynamoDB S3 Integration](../resources/images/dynamodb/dynamodb-s3-integration.png)
+![DynamoDB S3 Integration](../z_resources/images/dynamodb/dynamodb-s3-integration.png)

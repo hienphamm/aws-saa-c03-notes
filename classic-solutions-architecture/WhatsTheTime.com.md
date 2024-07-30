@@ -9,4 +9,4 @@
 - We're considering 5 pillars for a well architected application:
 - costs, performance, reliability, security, operational excellence
 
-![WhatsTheTime.com](../resources/images/classic-solutions-architecture/WhatsTheTime.com.png)
+![WhatsTheTime.com](../z_resources/images/classic-solutions-architecture/WhatsTheTime.com.png)

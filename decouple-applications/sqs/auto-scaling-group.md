@@ -20,6 +20,6 @@ Integrating Amazon SQS (Simple Queue Service) with Auto Scaling Groups (ASGs) al
 - **Message Processing Time**: Consider the average message processing time when configuring scaling policies to ensure that instances have enough time to process messages before being terminated.
 - **Cost Management**: Monitor your costs closely, as dynamically adding instances can increase your AWS bill.
 
-![Integrating SQS with Auto Scaling Groups](../../resources/images/sqs/sqs-asg.png)
-![Integrating SQS with Auto Scaling Groups](../../resources/images/sqs/sqs-asg-2.png)
-![Integrating SQS with Auto Scaling Groups](../../resources/images/sqs/sqs-asg-3.png)
+![Integrating SQS with Auto Scaling Groups](../../z_resources/images/sqs/sqs-asg.png)
+![Integrating SQS with Auto Scaling Groups](../../z_resources/images/sqs/sqs-asg-2.png)
+![Integrating SQS with Auto Scaling Groups](../../z_resources/images/sqs/sqs-asg-3.png)

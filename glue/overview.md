@@ -18,5 +18,5 @@ Amazon Glue is a managed extract, transform, and load (ETL) service that is usef
 
 By leveraging these features, Amazon Glue simplifies the process of preparing and transforming data for analytics, enabling efficient and scalable data workflows.
 
-![Glue](../resources/images/glue/convert-data.png)
-![Glue](../resources/images/glue/catalog-datasets.png)
+![Glue](../z_resources/images/glue/convert-data.png)
+![Glue](../z_resources/images/glue/catalog-datasets.png)

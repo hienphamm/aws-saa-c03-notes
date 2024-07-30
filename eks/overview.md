@@ -18,4 +18,4 @@ Amazon Elastic Kubernetes Service (EKS) is a managed service that makes it easie
 
 EKS provides a seamless integration path for existing Kubernetes workloads, leveraging AWS's scalability and security. It's an excellent choice for organizations seeking to maintain their investment in Kubernetes while also taking advantage of the AWS ecosystem.
 
-![Amazon Elastic Kubernetes Service](../resources/images/eks/eks-overview.png)
+![Amazon Elastic Kubernetes Service](../z_resources/images/eks/eks-overview.png)

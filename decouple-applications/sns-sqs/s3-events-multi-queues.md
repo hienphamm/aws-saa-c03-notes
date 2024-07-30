@@ -18,4 +18,4 @@ To distribute a single type of S3 event (e.g., object creation under a specific 
 
 This approach leverages the strengths of AWS services to efficiently distribute events, ensuring that all interested components are notified of actions in S3 without direct coupling or complex configurations.
 
-![S3 Events to Multiple SQS Queues via Fan-Out](../../resources/images/sns-sqs/s3-events-multi-queues.png)
+![S3 Events to Multiple SQS Queues via Fan-Out](../../z_resources/images/sns-sqs/s3-events-multi-queues.png)

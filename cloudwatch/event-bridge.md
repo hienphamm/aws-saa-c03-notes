@@ -31,5 +31,5 @@ Amazon EventBridge is a serverless event bus service that makes it easy to conne
 
 By leveraging these features, you can build robust event-driven architectures with Amazon EventBridge.
 
-![EventBridge](../resources/images/cloudwatch/event-bridge.png)
-![EventBridge](../resources/images/cloudwatch/event-bridge-2.png)
+![EventBridge](../z_resources/images/cloudwatch/event-bridge.png)
+![EventBridge](../z_resources/images/cloudwatch/event-bridge-2.png)

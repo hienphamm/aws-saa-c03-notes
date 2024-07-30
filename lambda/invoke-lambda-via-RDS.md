@@ -28,4 +28,4 @@ Integrating AWS Lambda with Amazon RDS for PostgreSQL and Aurora MySQL enables a
 
 By following these steps, you can seamlessly integrate AWS Lambda with your RDS for PostgreSQL or Aurora MySQL databases, enabling sophisticated, real-time data processing capabilities within your database environment.
 
-![Lambda Invocation from RDS & Aurora](../resources/images/lambda/invoke-lambda-via-RDS.png)
+![Lambda Invocation from RDS & Aurora](../z_resources/images/lambda/invoke-lambda-via-RDS.png)

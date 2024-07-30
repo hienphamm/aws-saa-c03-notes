@@ -19,4 +19,4 @@ Amazon CloudWatch Logs allows you to get real-time log events for processing and
 
 By setting up log subscriptions, you can efficiently process and analyze log data in real-time using the destination of your choice.
 
-![CloudWatch Logs](../resources/images/cloudwatch/cloudwatch-logs.png)
+![CloudWatch Logs](../z_resources/images/cloudwatch/cloudwatch-logs.png)

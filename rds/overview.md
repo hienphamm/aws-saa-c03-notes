@@ -14,4 +14,4 @@
 
 - Note: You can't SSH into your RDS instances.
 
-![RDS](../resources/images/rds/rds.png)
+![RDS](../z_resources/images/rds/rds.png)

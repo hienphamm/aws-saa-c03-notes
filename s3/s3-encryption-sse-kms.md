@@ -22,4 +22,4 @@ Content-Length: [length]
 Content-Type: text/plain
 ```
 
-![Server-Side Encryption with KMS Keys](../resources/images/s3/s3-encryption-sse-kms.png)
+![Server-Side Encryption with KMS Keys](../z_resources/images/s3/s3-encryption-sse-kms.png)
