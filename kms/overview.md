@@ -59,3 +59,4 @@
 2. Attach a KMS Key Policy to authorize cross-account access.
 3. Share the encrypted snapshot.
 4. (In target) Create a copy of the Snapshot, encrypt it with a CMK in your account.
+
