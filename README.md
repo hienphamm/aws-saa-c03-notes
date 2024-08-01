@@ -26,4 +26,13 @@ Section 23: Machine Learning
 Section 24: AWS Monitoring & Audit: CloudWatch, CloudTrail & Config  
  - Start: 28-07-2024
  - End: 29-07-2024
+Section 25: Identity and Access Management (IAM) - Advanced  
+ - Start: 30-07-2024
+ - End: 30-07-2024
+Section 26: AWS Security & Encryption: KMS, SSM Parameter Store, Shield, WAF
+ - Start: 31-07-2024
+ - End: 01-08-2024
+Section 27: Networking - VPC
+ - Start: 01-08-2024
+ - End: 03-08-2024
 ```
