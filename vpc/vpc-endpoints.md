@@ -29,3 +29,5 @@
 
 ### Usage Preference
 - **Interface Endpoint**: Preferred if access is required from on-premises (Site to Site VPN or Direct Connect), a different VPC, or a different region.
+
+![VPC Endpoints](../z_resources/images/vpc/vpc-endpoints.png)

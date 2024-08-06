@@ -37,3 +37,4 @@
     - **Cost**: Pay per hour for EC2 instance + data processed.
     - **Elastic IP**: Must manually assign.
     - **Security Groups**: Must manage security groups.
+![NAT Gateway vs. NAT Instance](../z_resources/images/vpc/NAT-gateway-vs-NAT-instance.png)
